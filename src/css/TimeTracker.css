@@ -1,0 +1,36 @@
+body {
+  background: #2c3e50;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.main-tracker-section {
+  margin-top: 0px;
+
+  position: fixed;
+}
+
+.clock-holder {
+  width: 100px;
+  background: #f7d927;
+  border-radius: 5px;
+}
+
+.stopwatch {
+  padding: 5px 0px;
+  text-align: center;
+}
+.stopwatch span {
+  background: #52acff;
+  color: #fff;
+  display: inline-block;
+  font-family: monospace;
+  font-size: 18px;
+  padding: 3px;
+  border-radius: 5px;
+  width: 30px;
+}

@@ -1,0 +1,27 @@
+.pt-3
+{
+    position: fixed !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+
+  border: 1px solid #ccc !important;
+  background: #fff;
+  overflow: auto;
+  border-radius: 4px !important;
+  outline: none !important;
+  padding: 20px !important; 
+    
+}
+.shadow>.screen-record
+{
+  z-index: 10000 !important;
+  justify-content: center !important;
+  align-items: center !important;
+  
+}
+.btn-1,.btn-2
+{
+    margin: 10px !important;
+
+}
