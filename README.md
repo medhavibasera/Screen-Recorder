@@ -1,6 +1,6 @@
 # Screen-Recorder
 
-The application helps to record the screen as well as tracks the time spent by user on the screen. 
+The application helps to record the screen as well as tracks the time spent by user on the screen. The recording gets saved on your system after it is stopped. 
 
 
 #### Example:   
