@@ -5,7 +5,8 @@ The application helps to record the screen as well as tracks the time spent by u
 
 #### Example:   
 
-![Uploading Screenshot 2021-06-01 at 8.27.10 PM.png…]()
+<img width="1439" alt="Screenshot 2021-06-01 at 8 27 10 PM" src="https://user-images.githubusercontent.com/63841527/120346205-c9f77000-c318-11eb-8912-ea935f9205c1.png">
+
 
 
 ## Installation and Setup Instructions
