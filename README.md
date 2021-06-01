@@ -1,13 +1,12 @@
 # Screen-Recorder
 
-An application used to record the screen as well as tracks the time spent by user on the screen. 
+The application helps to record the screen as well as tracks the time spent by user on the screen. 
 
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![Uploading Screenshot 2021-06-01 at 8.27.10 PM.png…]()
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
 
 ## Installation and Setup Instructions
 
